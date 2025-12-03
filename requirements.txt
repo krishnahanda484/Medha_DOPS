@@ -6,4 +6,5 @@ scikit-learn
 requests
 openai
 twilio
-pyngrok
+openpyxl
+statsmodels
